@@ -2,3 +2,5 @@
 
 The audio auditor: user-level membership inference in Internet of Things voice services  --- [PoPETs 2021](https://researchonline.jcu.edu.au/64660/1/64660.pdf)
 
+Detailed resource and code can be found at [my GitHub](https://github.com/skyInGitHub/User-Level-Audio-Auditor)
+
